@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GunarsKononovs
+- 👀 I’m interested in: UI, UX, SCC, FTP, WordPress, JavaScript, HTML, Java, C++, Ruby, R, Python, Scala, Go, Swift, Objective 
+- 🌱 I’m currently learning:-C, DirectX, OpenGL, Unity 3D, WebGL, C, C++, C#, Ops, DevOps, Kubernetes, Docker, Apache Mesos, Jenkins, HashiCorp.
+- 💞️ I’m looking to collaborate on projects. 
+- 📫 How to reach me: gunars.kononovs@gmail.com
